@@ -1,0 +1,1 @@
+This is a repo for Hand Examples pulled from SnakePitPoker for use in analysis software. Will be creating folders moving forward to be able to analyse and add functionality with commercially available poker analysers. 
